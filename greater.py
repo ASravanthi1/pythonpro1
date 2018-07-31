@@ -1,6 +1,6 @@
-a=int(input(""))
-b=int(input(""))
-c=int(input(""))
+a=int(input(" "))
+b=int(input(" "))
+c=int(input(" "))
 if(a>b and a>c):
     print ("a is greater")
 elif(b>c and b>a):
